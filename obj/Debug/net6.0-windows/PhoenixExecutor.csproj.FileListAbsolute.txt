@@ -1,0 +1,12 @@
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\PhoenixExecutor.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\CodeBox.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\Console.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\ScriptList.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Themes\Dark.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Themes\Shared.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\CodeBox.g.cs
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\Console.g.cs
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\src\ui\Controls\ScriptList.g.cs
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\PhoenixExecutor_MarkupCompile.cache
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\App.baml
+C:\Users\Sergey\Desktop\Phoenix Executor\obj\Debug\net6.0-windows\App.g.cs

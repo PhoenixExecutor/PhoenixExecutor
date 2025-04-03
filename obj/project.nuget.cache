@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BItThNhemCAGeRlhKn+Fla88d0kJjV+OcCqUALjki45JAzvMLuy8mOWCQdBghcFG7ht9IZOEUBo4k2rbvcmRTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergey\\Desktop\\Phoenix Executor\\PhoenixExecutor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergey\\.nuget\\packages\\avalonedit\\6.3.0.90\\avalonedit.6.3.0.90.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\keralua\\1.4.4\\keralua.1.4.4.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Sergey\\.nuget\\packages\\nlua\\1.7.5\\nlua.1.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
